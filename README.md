@@ -1,6 +1,6 @@
 # Pet-Companion
 
-### Wake Up, Find a Friend, Have A Good.
+### Wake Up, Find a Friend, Have A Good Day.
 
 #### Made with <a href="https://material-ui.com/"><u>Material-UI</u></a> .
 
